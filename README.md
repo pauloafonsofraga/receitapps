@@ -3,7 +3,7 @@ ReceitApps
 A ReceitApps é uma aplicação móvel criada em Flutter e com backend em Supabase.
 Peermite aos utilizadores explorar receitas culinárias, para isso têm que criar uma conta, autenticar-se e podem depois seguir receitas passo a passo.
 
-O porjecto inclui prototipagem em Figma.
+O projecto inclui prototipagem em Figma.
 
 Aplicação móvel desenvolvida em Flutter, com backend em Supabase, que permite aos utilizadores explorar receitas culinárias, criar conta, autenticar-se e seguir receitas passo a passo.
 O projeto inclui prototipagem visual em Figma e integração completa com autenticação e base de dados.
@@ -109,6 +109,14 @@ flutter pub get
 
 7 - Executar a aplicação
 flutter run
+
+
+************* NOTA PARA O PROFESSOR FERNANDO PINHO MARSON **************
+
+Apenas a primeira receita está completa. Julgo que estar a desenvolver passo-a-passo todas a diferentes receitas é um exercício com pouco retorno, visto que estamos essencialmente a copiar/colar. Obrigado Professor.
+
+
+
 
 
 Paulo Fraga
